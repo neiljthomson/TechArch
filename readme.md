@@ -1,6 +1,6 @@
 # Trust over IP (ToIP) Technology Architecture Specification
 
-This is the working area for the ToIP Technology Architecture specification. It is a work in progress and should only be referenced as such. A HTML version of the spec (main branch) is automatically generated and available at https://trustoverip.github.io/TechArch. Once the specification is officially adopted by the ToIP Foundation, it will be available in Deliverables area: https://www.trustoverip.org/our-work/deliverables/
+This is are the working area for the ToIP Technology Architecture specification. It is a work in progress and should only be referenced as such. A HTML version of the spec (main branch) is automatically generated and available at https://trustoverip.github.io/TechArch. Once the specification is officially adopted by the ToIP Foundation, it will be available in Deliverables area: https://www.trustoverip.org/our-work/deliverables/
 
 This is a Draft Deliverable of the Technology Architecture Task Force of the Technology Stack Working Group. The purpose is to define the full set of requirements for the technology architecture of the four layers of the ToIP stack. For introductory information about the ToIP stack, please check out:
 
